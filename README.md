@@ -1,2 +1,3 @@
 # LUNA16_preprocessing
-code of preprocessing LUNA16 dataset is in full_prep.py file
+code is in full_prep.py file
+PS. step12.py is optional
