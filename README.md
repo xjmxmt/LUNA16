@@ -1,10 +1,10 @@
-# LUNA16_preprocessing
+# LUNA16
 code is in full_prep.py file
 
 PS. step12.py is optional
 
 
-part of results:
+part of results of preprocessing:
 --
 
 1. plot 3D silces
